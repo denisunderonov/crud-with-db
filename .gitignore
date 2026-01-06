@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+
+# PHP
+*.log
+
+# Database config (если будет отдельный файл)
+config.php
+
+# Temporary files
+*.tmp
+*.temp
